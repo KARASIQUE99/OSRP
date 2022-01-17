@@ -3,6 +3,3 @@ symbol=Be
 number=4
 configuration=1s2 2s2
 weight=9.012182
-radius=112pm;35pm (+2e);96pm
-9=4;5;9.012182;stable;none;none;1.5-;
-10=4;6;10.01353469;1.387+e6y;b-;B-10;0+;

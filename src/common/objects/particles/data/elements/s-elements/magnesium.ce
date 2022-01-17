@@ -3,7 +3,3 @@ symbol=Mg
 number=12
 configuration=1s2 2s2 2p6 3s2
 weight=24.307
-radius=160pm;66pm (+2e);136pm
-24=12;12;23.985041697;stable;none;none;0+;
-25=12;13;24.98583696;stable;none;none;1.5+;
-26=12;14;25.98259297;stable;none;none;0+;

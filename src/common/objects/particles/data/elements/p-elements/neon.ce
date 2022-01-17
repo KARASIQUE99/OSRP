@@ -3,7 +3,3 @@ symbol=Ne
 number=10
 configuration=1s2 2s2 2p6
 weight=20.1797
-radius=38pm;112pm;58pm
-20=10;10;19.9924401762;stable;none;none;0+;
-21=10;11;20.99384669;stable;none;none;1.5+;
-22=10;12;21.991385110;stable;none;none;0+;

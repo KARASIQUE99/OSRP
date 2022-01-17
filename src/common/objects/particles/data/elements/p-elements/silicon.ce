@@ -1,0 +1,5 @@
+name=silicon
+symbol=Si
+number=14
+configuration=1s2 2s2 2p6 3s2 3p2
+weight=28.086

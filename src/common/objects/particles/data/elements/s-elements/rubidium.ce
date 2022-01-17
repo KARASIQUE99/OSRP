@@ -3,6 +3,3 @@ symbol=Rb
 number=37
 configuration=1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1
 weight=85,4678
-radius=248pm;147pm (+1e);216pm
-85=37;48;84.911789738;stable;none;none;2.5-;
-87=37;50;85.9092607309;4.923+e10y;b-;Sr-87;0+;

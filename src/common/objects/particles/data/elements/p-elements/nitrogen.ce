@@ -3,6 +3,3 @@ symbol=N
 number=7
 configuration=1s2 2s2 2p3
 weight=14.00728
-radius=75pm;13pm (+5e);75pm
-14=7;7;14.00307400425;stable;none;none;1+;
-15=7;8;15.0001088983;stable;none;none;0.5-;

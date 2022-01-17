@@ -3,7 +3,3 @@ symbol=O
 number=8
 configuration=1s2 2s2 2p4
 weight=15.99977
-radius=60pm;132pm (-2e);73pm
-16=8;8;15.9949146193;stable;none;none;0+;
-17=8;9;16.9991317560;stable;none;none;2.5+;
-18=8;10;17.9991596121;stable;none;none;0+;

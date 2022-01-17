@@ -3,6 +3,3 @@ symbol=He
 number=2
 configuration=1s2
 weight=4.002602
-radius=53pm;54pm;32pm
-3=2;1;3.016029321967;stable;none;none;0.5+;
-4=2;2;4.002603254130;stable;none;none;0+;
