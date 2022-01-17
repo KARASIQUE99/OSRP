@@ -1,0 +1,8 @@
+name=lithium
+symbol=Li
+number=3
+configuration=1s2 2s1
+weight=6,997
+radius=145pm;76pm;134pm
+6=3;3;6.0151228874;stable;none;none;1+;
+7=3;4;7.0160034345;stable;none;none;1.5-;

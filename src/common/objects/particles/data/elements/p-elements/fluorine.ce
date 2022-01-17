@@ -1,0 +1,7 @@
+name=fluorine
+symbol=F
+number=9
+configuration=1s2 2s2 2p5
+weight=18.998403163
+radius=73pm;133pm (-1e);72pm
+19=9;10;18.998403163;stable;none;none;0.5+;

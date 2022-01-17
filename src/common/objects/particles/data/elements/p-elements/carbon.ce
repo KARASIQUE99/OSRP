@@ -1,0 +1,9 @@
+name=carbon
+symbol=C
+number=6
+configuration=1s2 2s2 2p2
+weight=12.0116
+radius=70pm;16pm (+4e);77pm
+12=6;6;12;stable;none;none;0+;
+13=6;7;13.00335483534;stable;none;none;0.5-;
+14=6;8;14.0032419890;5.7+e3y;b-;N-14;0+;

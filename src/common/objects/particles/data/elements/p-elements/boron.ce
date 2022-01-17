@@ -1,0 +1,8 @@
+name=boron
+symbol=B
+number=5
+configuration=1s2 2s2 2p1
+weight=10.821
+radius=98pm;23pm (+3e);82pm
+10=5;5;10.012936860;stable;none;none;3+;
+11=5;6;11.009305170;stable;none;none;1.5-;
